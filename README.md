@@ -7,6 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Sobre o CRUD
-##### Falta terminar consegui fazer a parte do create mais ainda falta o restante, read, update e delete.
+
 
